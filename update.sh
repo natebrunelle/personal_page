@@ -106,7 +106,7 @@ function upfile() {
 
 
 
-# cross-link cal.yaml and the various files it makes
+:'# cross-link cal.yaml and the various files it makes
 if [ cal.yaml -nt schedule.html ] \
 || [ links.yaml -nt schedule.html ] \
 || [ cal2html.py -nt schedule.html ] \
@@ -123,6 +123,7 @@ if [ schedule.html -nt markdown/schedule.md ]
 then
     touch --date="$(stat -c "%y" schedule.html)" markdown/schedule.md
 fi
+'
 
 # move all files to the destination tree, compiling as needed
 find markdown -type f | while read path
