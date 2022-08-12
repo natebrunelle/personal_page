@@ -10,3 +10,5 @@ I have a BA in Math and Computer Science, an Masters of Computer Science (MCS), 
 
 While I still engage in research relating to applications of automata theory for special-purpose computing archictectures, my primary research activities focus on computing education. In particular, I am interested in investigating tools-free ways of addressing academic integrity in computing courses, and in pedagogical practices and course designs for teaching math and computing theory topics.
 
+You can find my CV [here](/files/brunelle_cv.pdf).
+
