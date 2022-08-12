@@ -51,7 +51,7 @@ function upfile_inner() {
             --to=html5 \
             --from=markdown+inline_code_attributes+smart \
             --number-sections \
-            --title-prefix="Algorithms" \
+            --title-prefix="Nate Brunelle" \
             --table-of-contents --toc-depth=3 \
             --css=${prefix}style.css \
             --katex='https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/' \
