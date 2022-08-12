@@ -2,7 +2,7 @@
 title: Home
 ...
 
-![](files/photos/headshot.jpg)
+![](files/photos/headshot.jpg =x250)
 
 
 # About Me
