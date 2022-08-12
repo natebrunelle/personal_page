@@ -2,6 +2,8 @@
 title: Home
 ...
 
+![](/markdown/files/photos/headshot.jpg)
+
 
 # About Me
 
