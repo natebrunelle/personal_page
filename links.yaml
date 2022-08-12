@@ -1,0 +1,97 @@
+2022-06-21:
+    slides(pptx): files/slides/lecture1_welcome_runtime.pptx
+    slides(pdf): files/slides/lecture1_welcome_runtime.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c53f266-6fa8-477c-ad16-aebb00ef6a1e
+
+2022-06-22:
+    slides(pptx): files/slides/lecture2_divide_and_conquer.pptx
+    slides(pdf): files/slides/lecture2_divide_and_conquer.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a69c81fa-4aca-466c-9ba4-aebc00eefbaa
+    
+2022-06-23:
+    slides(pptx): files/slides/lecture3_recurrences.pptx
+    slides(pdf): files/slides/lecture3_recurrences.pdf
+    recurrence math: files/recurrence_math.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58a0cbbd-6cfd-4fe0-80ac-aebd00ef07b5
+    
+2022-06-24:
+    slides (pptx): files/slides/lecture4_master_closestpair.pptx
+    slides (pdf): files/slides/lecture4_master_closestpair.pdf
+    recurrence math: files/recurrence_math.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ca52d27-6f60-4c44-a26f-aebe00ef7248
+
+2022-06-25:
+    slides(pdf): files/slides/lecture5_strassens_quicksort.pdf
+    slides(pptx): files/slides/lecture5_strassens_quicksort.pptx
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ce11c7b-6ee6-4785-9557-aebf00eedfd5
+    
+2022-06-27:
+    slides (pptx): files/slides/lecture6_random_sorting.pptx
+    slides (pdf): files/slides/lecture6_random_sorting.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b79d7d3-100d-4f56-9a33-aec100ef15c4
+    
+2022-06-28:
+    slides (pptx): files/slides/lecture7_linear_sorting.pptx
+    slides (pdf): files/slides/lecture7_linear_sorting.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=073a3b31-6348-4b4a-90ca-aec200efdfce
+
+2022-06-29:
+    slides (pptx): files/slides/lecture8_dynamic_programming.pptx
+    slides (pdf): files/slides/lecture8_dynamic_programming.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab753fe3-9ce7-4f30-bef6-aec300ef7091
+    
+2022-06-30:
+    slides (pptx): files/slides/lecture9_dp2.pptx
+    slides (pdf): files/slides/lecture9_dp2.pdf
+    Matrix Chain Video: https://www.youtube.com/watch?v=xPItAt247qI
+    Seam Carving Video: https://www.youtube.com/watch?v=l1RK1px5LZU
+    
+2022-07-01:
+    slides (pptx): files/slides/lecture10_dp3.pptx
+    slides (pdf): files/slides/lecture10_dp3.pdf
+    video: https://www.youtube.com/watch?v=kVNUURBNr-c&list=PLZ9Gk_8DtbmFl1_0KD_c6zbs7fmBi8A4b&index=15
+    
+2022-07-05:
+    slides (pptx): files/slides/lecture11_greedy.pptx
+    slides (pdf): files/slides/lecture11_greedy.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cfa4ee5-6174-4e6e-82b6-aec900ef8a7f
+    
+2022-07-06:
+    slides (pptx): files/slides/lecture12_more_greedy.pptx
+    slides (pdf): files/slides/lecture12_more_greedy.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=297dea35-fc3e-4d37-917c-aeca00ef1d28
+    
+2022-07-07:
+    slides (pptx): files/slides/lecture13_mst_dijkstra.pptx
+    slides (pdf): files/slides/lecture13_mst_dijkstra.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29a757cb-053e-4e9c-b9f7-aecb00ef8c7d
+    
+2022-07-08:
+    slides (pptx): files/slides/lecture14_dijkstra_bfs_dfs.pptx
+    slides (pdf): files/slides/lecture14_dijkstra_bfs_dfs.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=070f72d6-721a-4597-b120-aecc00f04e78
+
+2022-07-11:
+    slides (pptx): files/slides/lecture15_maxflow.pptx
+    slides (pdf): files/slides/lecture15_maxflow.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da4c9cc4-a718-4730-9712-aecf00ef809b
+    video (old): https://www.youtube.com/watch?v=rngaG2ce8TQ
+    
+2022-07-12:
+    slides (pptx): files/slides/lecture16_reductions.pptx
+    slides (pdf): files/slides/lecture16_reductions.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b711df3e-d828-4dc4-b92b-aed000f06f86
+    
+2022-07-13:
+    slides (pptx): files/slides/lecture17_reductions2.pptx
+    slides (pdf): files/slides/lecture17_reductions2.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59406bfc-58a2-4c96-ac42-aed100f0cca5
+
+2022-07-14:
+    slides (pptx): files/slides/lecture18_npcomplete.pptx
+    slides (pdf): files/slides/lecture18_npcomplete.pdf
+    video: https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13ca1d99-ad4e-469c-a1e3-aed200ef0ae5
+    
+2021-06-16:
+    slides (pptx): files/slides/fiveworlds.pptx
+    slides (pdf): files/slides/fiveworlds.pdf

@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Virginia//cs4102//EN
+CALSCALE:GREGORIAN
+NAME:cs4102
+BEGIN:VEVENT
+SUMMARY:Courses begin
+DESCRIPTION:
+DTSTART:20220621
+DTEND:20220622
+DTSTAMP:20220714T165202Z
+UID::20220621-Courses begin@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Welcome
+DESCRIPTION:slides(pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture1_welcome_runtime.pptx>\nslides(pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture1_welcome_runtime.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c53f266-6fa8-477c-ad16-aebb00ef6a1e>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220621T140000
+DTEND;TZID=America/New_York:20220621T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220621T140000-Brunelle -- Welcome@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Asymptotics Divide and Conquer
+DESCRIPTION:CLRS ch.3 all\\; 4.1\\; 4.1\nslides(pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture2_divide_and_conquer.pptx>\nslides(pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture2_divide_and_conquer.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a69c81fa-4aca-466c-9ba4-aebc00eefbaa>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220622T140000
+DTEND;TZID=America/New_York:20220622T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220622T140000-Brunelle -- Asymptotics Divide and Conquer@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_1a
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220622T234400
+DTEND;TZID=America/New_York:20220622T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220622T234400-little_1a@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Karatsuba and Recurrences
+DESCRIPTION:CLRS ch.4 all\nslides(pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture3_recurrences.pptx>\nslides(pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture3_recurrences.pdf>\nrecurrence math <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/recurrence_math.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58a0cbbd-6cfd-4fe0-80ac-aebd00ef07b5>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220623T140000
+DTEND;TZID=America/New_York:20220623T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220623T140000-Brunelle -- Karatsuba and Recurrences@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_1b
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220623T234400
+DTEND;TZID=America/New_York:20220623T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220623T234400-little_1b@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Master Theorem and Closes Pair
+DESCRIPTION:CLRS 33.4\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture4_master_closestpair.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture4_master_closestpair.pdf>\nrecurrence math <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/recurrence_math.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ca52d27-6f60-4c44-a26f-aebe00ef7248>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220624T140000
+DTEND;TZID=America/New_York:20220624T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220624T140000-Brunelle -- Master Theorem and Closes Pair@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_1c
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220624T234400
+DTEND;TZID=America/New_York:20220624T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220624T234400-little_1c@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Strassens and Quicksort
+DESCRIPTION:CLRS 4.2 and 4.5\nslides(pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture5_strassens_quicksort.pdf>\nslides(pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture5_strassens_quicksort.pptx>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ce11c7b-6ee6-4785-9557-aebf00eedfd5>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220625T140000
+DTEND;TZID=America/New_York:20220625T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220625T140000-Brunelle -- Strassens and Quicksort@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:quiz_1
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220625T234400
+DTEND;TZID=America/New_York:20220625T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220625T234400-quiz_1@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Random Quicksort and Decision Trees
+DESCRIPTION:CLRS ch. 7 and ch. 9\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture6_random_sorting.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture6_random_sorting.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b79d7d3-100d-4f56-9a33-aec100ef15c4>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220627T140000
+DTEND;TZID=America/New_York:20220627T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220627T140000-Brunelle -- Random Quicksort and Decision Trees@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:big_1
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220627T234400
+DTEND;TZID=America/New_York:20220627T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220627T234400-big_1@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Sorting Properties and Linear Sorting
+DESCRIPTION:CLRS ch. 8\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture7_linear_sorting.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture7_linear_sorting.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=073a3b31-6348-4b4a-90ca-aec200efdfce>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220628T140000
+DTEND;TZID=America/New_York:20220628T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220628T140000-Brunelle -- Sorting Properties and Linear Sorting@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_2a
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220628T234400
+DTEND;TZID=America/New_York:20220628T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220628T234400-little_2a@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Dynamic Programming part 1
+DESCRIPTION:CLRS 15.4\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture8_dynamic_programming.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture8_dynamic_programming.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab753fe3-9ce7-4f30-bef6-aec300ef7091>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220629T140000
+DTEND;TZID=America/New_York:20220629T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220629T140000-Brunelle -- Dynamic Programming part 1@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_2b
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220629T234400
+DTEND;TZID=America/New_York:20220629T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220629T234400-little_2b@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Dynamic Programming part 2
+DESCRIPTION:slides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture9_dp2.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture9_dp2.pdf>\nMatrix Chain Video <https//www.youtube.com/watch?v=xPItAt247qI>\nSeam Carving Video <https//www.youtube.com/watch?v=l1RK1px5LZU>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220630T140000
+DTEND;TZID=America/New_York:20220630T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220630T140000-Brunelle -- Dynamic Programming part 2@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_2c
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220630T234400
+DTEND;TZID=America/New_York:20220630T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220630T234400-little_2c@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop Deadline
+DESCRIPTION:
+DTSTART:20220701
+DTEND:20220702
+DTSTAMP:20220714T165202Z
+UID::20220701-Drop Deadline@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Gerrymandering
+DESCRIPTION:slides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture10_dp3.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture10_dp3.pdf>\nvideo <https//www.youtube.com/watch?v=kVNUURBNr-c&list=PLZ9Gk_8DtbmFl1_0KD_c6zbs7fmBi8A4b&index=15>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220701T140000
+DTEND;TZID=America/New_York:20220701T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220701T140000-Brunelle -- Gerrymandering@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:quiz_2
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220701T234400
+DTEND;TZID=America/New_York:20220701T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220701T234400-quiz_2@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Greedy part 1
+DESCRIPTION:CLRS 16.1\\; 16.2\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture11_greedy.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture11_greedy.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cfa4ee5-6174-4e6e-82b6-aec900ef8a7f>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220705T140000
+DTEND;TZID=America/New_York:20220705T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220705T140000-Brunelle -- Greedy part 1@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:big_2
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220705T234400
+DTEND;TZID=America/New_York:20220705T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220705T234400-big_2@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Greedy part 2
+DESCRIPTION:CLRS 16.3\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture12_more_greedy.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture12_more_greedy.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=297dea35-fc3e-4d37-917c-aeca00ef1d28>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220706T140000
+DTEND;TZID=America/New_York:20220706T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220706T140000-Brunelle -- Greedy part 2@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_3a
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220706T234400
+DTEND;TZID=America/New_York:20220706T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220706T234400-little_3a@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Graphs, MST
+DESCRIPTION:CLRS 22.1\\; ch. 23 all\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture13_mst_dijkstra.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture13_mst_dijkstra.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29a757cb-053e-4e9c-b9f7-aecb00ef8c7d>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220707T140000
+DTEND;TZID=America/New_York:20220707T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220707T140000-Brunelle -- Graphs, MST@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_3b
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220707T234400
+DTEND;TZID=America/New_York:20220707T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220707T234400-little_3b@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Withdraw deadline
+DESCRIPTION:
+DTSTART:20220708
+DTEND:20220709
+DTSTAMP:20220714T165202Z
+UID::20220708-Withdraw deadline@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Dijkstras, BFS, DFS
+DESCRIPTION:CLRS 22.2\\; 22.3\\; 24.1\\; 24.2\\; 24.3\\; 25.2\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture14_dijkstra_bfs_dfs.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture14_dijkstra_bfs_dfs.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=070f72d6-721a-4597-b120-aecc00f04e78>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220708T140000
+DTEND;TZID=America/New_York:20220708T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220708T140000-Brunelle -- Dijkstras, BFS, DFS@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_3c
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220708T234400
+DTEND;TZID=America/New_York:20220708T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220708T234400-little_3c@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Maxflow/Mincut
+DESCRIPTION:CLRS 26.1\\; 26.2\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture15_maxflow.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture15_maxflow.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da4c9cc4-a718-4730-9712-aecf00ef809b>\nvideo (old) <https//www.youtube.com/watch?v=rngaG2ce8TQ>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220711T140000
+DTEND;TZID=America/New_York:20220711T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220711T140000-Brunelle -- Maxflow/Mincut@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:quiz_3
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220711T234400
+DTEND;TZID=America/New_York:20220711T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220711T234400-quiz_3@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Reductions
+DESCRIPTION:CLRS 26.3\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture16_reductions.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture16_reductions.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b711df3e-d828-4dc4-b92b-aed000f06f86>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220712T140000
+DTEND;TZID=America/New_York:20220712T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220712T140000-Brunelle -- Reductions@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:big_3
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220712T234400
+DTEND;TZID=America/New_York:20220712T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220712T234400-big_3@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- NP-Completeness part 1
+DESCRIPTION:CLRS ch. 34 all\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture17_reductions2.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture17_reductions2.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59406bfc-58a2-4c96-ac42-aed100f0cca5>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220713T140000
+DTEND;TZID=America/New_York:20220713T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220713T140000-Brunelle -- NP-Completeness part 1@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_4a
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220713T234400
+DTEND;TZID=America/New_York:20220713T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220713T234400-little_4a@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- NP-Completeness part 2
+DESCRIPTION:CLRS ch. 34 all\nslides (pptx) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture18_npcomplete.pptx>\nslides (pdf) <https//www.cs.virginia.edu/~njb2b/cs4102/su22/files/slides/lecture18_npcomplete.pdf>\nvideo <https//uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13ca1d99-ad4e-469c-a1e3-aed200ef0ae5>
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220714T140000
+DTEND;TZID=America/New_York:20220714T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220714T140000-Brunelle -- NP-Completeness part 2@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:little_4b
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220714T234400
+DTEND;TZID=America/New_York:20220714T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220714T234400-little_4b@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Courses end
+DESCRIPTION:
+DTSTART:20220715
+DTEND:20220716
+DTSTAMP:20220714T165202Z
+UID::20220715-Courses end@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brunelle -- Finale
+DESCRIPTION:
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220715T140000
+DTEND;TZID=America/New_York:20220715T151500
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220715T140000-Brunelle -- Finale@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:quiz_4
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220715T234400
+DTEND;TZID=America/New_York:20220715T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220715T234400-quiz_4@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Exam
+DESCRIPTION:
+LOCATION:NA
+DTSTART;TZID=America/New_York:20220716T103000
+DTEND;TZID=America/New_York:20220716T133000
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220716T103000-Final Exam@cs4102.cs.virginia.edu
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:big_4
+DESCRIPTION:
+DTSTART;TZID=America/New_York:20220716T234400
+DTEND;TZID=America/New_York:20220716T235900
+DTSTAMP:20220714T165202Z
+UID:;TZID=America/New_York:20220716T234400-big_4@cs4102.cs.virginia.edu
+END:VEVENT
+END:VCALENDAR
