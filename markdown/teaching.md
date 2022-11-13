@@ -25,14 +25,19 @@ title: Teaching
   - [Spring 2020](http://www.cs.virginia.edu/~njb2b/cstheory/s2020/)
   - [Fall 2020](http://uvatoc.github.io/f20): Co-taught with Dave Evans
   - [Spring 2021](http://www.cs.virginia.edu/~njb2b/cstheory/s2021/)
+  - [Summer 2021](http://www.cs.virginia.edu/~njb2b/cstheory/su2021/)
   - [Fall 2021](http://uvatoc.github.io): Co-taught with Dave Evans
   - [Spring 2022](http://www.cs.virginia.edu/~njb2b/cstheory/s2022/)
   - [Fall 2022](http://www.cs.virginia.edu/~njb2b/cstheory/f2022/)
 - Algorithms, CS4102
   - Fall 2017
   - Spring 2018
+  - Summer 2018
   - [Fall 2018](http://www.cs.virginia.edu/~njb2b/cs4102/f18/): Team-taught with Robbie Hott
+  - [Summer 2020](https://www.cs.virginia.edu/~njb2b/cs4102/su20/)
   - [Fall 2020](http://www.cs.virginia.edu/~njb2b/cs4102/f20/): Team-taught with David Wu
+  - [Summer 2021](https://www.cs.virginia.edu/~njb2b/cs4102/su21/)
+  - [Summer 2022](https://www.cs.virginia.edu/~njb2b/cs4102/su22/)
 
 
 [^1]: I use "team-taught" to mean that multiple faculty shared a course staff, assignments, assessments, labs, etc. but each was assigned an independent lecture section. I use "co-taught" to mean that multiple faculty shared a single lecture section.
