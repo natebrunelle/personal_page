@@ -6,10 +6,10 @@ title: Teaching
 # Courses
 
 - Introduction to Programming, CS1110/1111
-  - Fall 2018
-  - Spring 2018
-  - Fall 2019
-  - Spring 2020 
+  - [Fall 2018](https://web.archive.org/web/20181228034426/cs1110.cs.virginia.edu/)
+  - [Spring 2019](https://web.archive.org/web/20190630132843/cs1110.cs.virginia.edu/)
+  - [Fall 2019](https://web.archive.org/web/20191229074605/cs1110.cs.virginia.edu/)
+  - [Spring 2020](https://web.archive.org/web/20200508225517/cs1110.cs.virginia.edu/)
 - Discrete Math/DMT1, CS2102/2120
   - Summer 2018
   - [Summer 2019](https://www.cs.virginia.edu/~njb2b/cs2102/)
