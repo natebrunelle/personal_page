@@ -30,7 +30,7 @@ title: Teaching
   - [Fall 2022](http://www.cs.virginia.edu/~njb2b/cstheory/f2022/)
 - Algorithms, CS4102
   - Fall 2017
-  - [Spring 2018](http://www.cs.virginia.edu/~njb2b/cs4102/s18/)
+  - Spring 2018
   - [Fall 2018](http://www.cs.virginia.edu/~njb2b/cs4102/f18/)
   - [Fall 2020](http://www.cs.virginia.edu/~njb2b/cs4102/f20/)
 
