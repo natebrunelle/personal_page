@@ -5,7 +5,8 @@ title: Teaching
 
 # Courses
 
-- Introduction to Programming, CS1110, fall 2018
+- Introduction to Programming
+  - , CS1110, fall 2018
 - [Algorithms, CS4102, fall 2018](http://www.cs.virginia.edu/~njb2b/cs4102/f18/)
 - Introduction to Programming, CS1110, spring 2018
 - [Theory of Computation, CS3102, spring 2019](http://www.cs.virginia.edu/~njb2b/cs3102/s19/)
